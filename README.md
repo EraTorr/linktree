@@ -1,25 +1,5 @@
 <h1 align="center">:evergreen_tree: Linktree</h1>
-<h3 align="center">Simple site to group all my profiles on social networks in one place.</h3>
-
-<p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/JohnEmerson1406/linktree?color=%234caf50">
-  
-  <a href="https://www.linkedin.com/in/johnemerson1406/">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-John%20Emerson-%234caf50">
-  </a>
-  
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/JohnEmerson1406/myanimelist-profile?color=%234caf50">
-  
-  <a href="https://github.com/JohnEmerson1406/linktree/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JohnEmerson1406/linktree?color=%234caf50">
-  </a>
-</p>
-
-<p align="center">
-  <a href="#bulb-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#star2-extras">Get in touch</a>
-</p>
+<h3 align="center">Simple site to group all links in one place.</h3>
 
 ---
 
@@ -31,9 +11,7 @@
 
 ## :bulb: About the project
 
-- This is an open source project that serves as a free alternative to the Linktree website, made only in html and css.
-
-- [Deploy](https://johnemerson1406.github.io/linktree)
+- This is an open source project that serves as a free alternative to the Linktree website.
 
 ## :rocket: Getting started
 
@@ -41,10 +19,9 @@
 
 ---
 
-## :star2: Extras
-- [Shields.io](https://shields.io/)
+## :star: Extras
 - [Github Emojis](https://gist.github.com/rxaviers/7360908)
 
 ---
-
+[Get in touch with original github project](https://johnemerson1406.github.io/linktree)
 Made with ♥ by John Emerson :wave: [Get in touch](https://johnemerson1406.github.io/linktree)
