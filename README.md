@@ -11,11 +11,11 @@
 
 ## :bulb: About the project
 
-- This is an open source project that serves as a free alternative to the Linktree website.
+- This is an open source project that serves as a free alternative to the Linktree website mabe by John Emerson.
 
 ## :rocket: Getting started
 
-- After downloading this repository, make changes to images and text in the `index.html` file. If desired, change the colors and fonts in the `style.css` file.
+- Go to the [original repository](https://johnemerson1406.github.io/linktree)
 
 ---
 
@@ -23,5 +23,5 @@
 - [Github Emojis](https://gist.github.com/rxaviers/7360908)
 
 ---
-[Get in touch with original github project](https://johnemerson1406.github.io/linktree)
-Made with ♥ by John Emerson :wave: [Get in touch](https://johnemerson1406.github.io/linktree)
+
+Original template made with ♥ by John Emerson :wave: [Get in touch](https://johnemerson1406.github.io/linktree)
