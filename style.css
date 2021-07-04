@@ -111,14 +111,13 @@ body {
 
 #not-important-link {
     position: absolute;
-    bottom: 20px;
+    bottom: 10px;
     padding-bottom: 20px;
     color: var(--accentColor);
     font-size: 1rem;
     display: block;
     font-family: var(--font);
-    width: 100%;
-    text-align: center;
+    left: 20px;
     text-decoration: none;
 }
 
