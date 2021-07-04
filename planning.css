@@ -169,7 +169,7 @@ header {
   background-position: center !important;
   background-color: #000;
   float: left;
-  background: url("https://lastspell.com/wp-content/uploads/2020/07/TLS_KeyArt_ComicsVersion-1.png");
+  background: url("https://ik.imagekit.io/nrqvxs6itqd/small_QMlDLWkmr.png");
   background-size: cover;
 }
 
@@ -178,7 +178,7 @@ header {
   height: 200px;
   background-color: #000;
   float: left;
-  background: url("https://finalfantasy-ix.square-enix-games.com/img/backgrounds/home-background.jpg");
+  background: url("https://ik.imagekit.io/nrqvxs6itqd/home-background_nawBIvrrA8.jpg");
   background-size: cover;
   background-position: 50% 0;
 }
@@ -244,7 +244,7 @@ header {
 }
 
 .card-reg-bg {
-  background: url("https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeague_PsyonixLLC_S1-2560x1440-e9dc9ecfd5a872841615d15ba04600a6.jpg?h=200&resize=1&w=250")
+  background: url("https://ik.imagekit.io/nrqvxs6itqd/EGS_RocketLeague_PsyonixLLC_S1-2560x1440-e9dc9ecfd5a872841615d15ba04600a6_i0XZeC1tvB.jpg")
     no-repeat;
   background-position: 50%;
 }
